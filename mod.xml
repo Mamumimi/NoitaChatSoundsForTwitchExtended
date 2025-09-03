@@ -1,0 +1,5 @@
+<Mod
+	name="Twitch Chat Sounds"
+	description="Play a sound whenever a message is received in Twitch chat."
+	request_no_api_restrictions="0"	
+/>
