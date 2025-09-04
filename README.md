@@ -1,0 +1,7 @@
+#Twitch Chat Sounds
+
+Adds a command to Twitch Extended that causes a sound to be played when a chat message is received.
+
+To make it work, connect to your Twitch channel in Noita's streaming options, then go to Config Lib > Twitch Extended > Commands > Twitch Chat Sounds, enable the feature, and clear the 'Chat command' field. It comes with a small selection of sounds to choose from, pulled right from the game. Click 'Run Command' to preview the sounds.
+
+Also on Steam Workshop: [Twitch Chat Sounds](https://steamcommunity.com/sharedfiles/filedetails/?id=3561659127)
