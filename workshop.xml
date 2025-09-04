@@ -5,8 +5,8 @@
     [h3]Configuraiton instructions:[/h3]
     [olist]
     [*]Enable the mod in Noita's mod menu and configure your mod load order: Config lib > Twitch Extended > Twitch Chat Sounds
-    [*]Connect to your Twitch channel in Noita's in-game streaming options
-    [*]Go to Config Lib's in-game settings menu (top right of screen when in a run) > Twitch Extended > Commands > Twitch Chat Sounds
+    [*]Connect to your Twitch channel in Noita's in-game streaming options.
+    [*]Go to Config Lib's in-game settings menu: (top right of screen when in a run) > Twitch Extended > Commands > Twitch Chat Sounds
     [*]Enable the Twitch Chat Sounds feature and clear the 'Chat command' field.
     [*]Use the Sound Selector to pick a chat sound and click 'Run Command' to try it out.
     [/olist]
